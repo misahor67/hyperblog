@@ -2,6 +2,10 @@ Esta es la historia de Leonardo Vega
 
 Leonardo Vega tiene 19 años y nació en Perú
 
+<<<<<<< HEAD
 Yeiyei77 es micuenta secundaria y desde ahí estoy modificando
 
 Mañana nos enfocaremos en su vida universitaria
+=======
+Mañana nos enfocaremos en su vida universitaria
+>>>>>>> 73332d2ec9bc18639a61b4df8af4f74d3ed9e8e3
